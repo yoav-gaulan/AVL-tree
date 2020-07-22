@@ -1,6 +1,6 @@
 /**
  *
- * AVLTree - Yoav Gaulan 311509020 & David Oren 308120583
+ * AVLTree - Yoav Gaulan 
  *
  * An implementation of a AVL Tree with
  * distinct integer keys and info
